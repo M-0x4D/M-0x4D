@@ -1,7 +1,3 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=B30000&center=true&vCenter=true&width=720&lines=I'm+back+end+Developer+%3C%3D%3E+trying+to+be+Software+Engineer.)](https://git.io/typing-svg)
-<div align="center" >
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=2500&color=979797&width=435&lines=Software+Engineer;BackEnd+Developer)](https://git.io/typing-svg)
 </div>
 <p align="center">
