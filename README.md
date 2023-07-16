@@ -3,15 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=2500&color=979797&width=435&lines=Software+Engineer;BackEnd+Developer)](https://git.io/typing-svg)
 </div>
 <p align="center">
+<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
+</p>
+
+<p align="center">
 <a href="https://www.linkedin.com/in/m-0x4d/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="2xdo" height="20" width="30" /></a>
 <a href="https://fb.com/M-0x4D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mastefoo" height="20" width="30" /></a>
 <a href="mailto:adl774855@gmail.com">
   <img align="center" alt="Falguni @Mail" height="30" width="40px"   src="https://user-images.githubusercontent.com/108660346/185448166-45d7982a-d1b8-4d88-b2c6-d59fd29b92d5.svg" />
 </a>
 </p>
-<p align="center">
-<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
-</p>
+
 ## About me
 - I'm a web developer specializing in back end development using PHP
  and Laravel, as well as relational databases.
