@@ -1,6 +1,6 @@
 <div align="center" >
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=2500&color=979797&width=435&lines=Software+Engineer;BackEnd+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=30&duration=2500&color=979797&width=435&lines=Software+Engineer;Full+stack+Developer)](https://git.io/typing-svg)
 </div>
 <p align="center">
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
